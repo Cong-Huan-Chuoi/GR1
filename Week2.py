@@ -1,3 +1,4 @@
+
 import requests
 import re
 
@@ -74,4 +75,5 @@ def main():
         print(f"URL {url} is found dangerous by GSB API.")
 
 if __name__ == '__main__':
+
     main()
