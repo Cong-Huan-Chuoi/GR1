@@ -1,0 +1,12 @@
+# Bỏ qua tất cả các file .log
+*.log
+
+# Bỏ qua thư mục .vscode và tất cả các file bên trong nó
+.vscode/
+vscode/
+# Bỏ qua các file tạm thời, file nhị phân và thư mục biên dịch
+*.exe
+*.o
+*.class
+build/
+dist/
